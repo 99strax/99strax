@@ -1,7 +1,7 @@
 <p align = 'center'>
   <img
-    src="[https://github-readme-stats.vercel.app/api?username=czsquizer&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=99strax&show_icons=true&theme=dark)"
-  />
+    src="https://github-readme-stats.vercel.app/api?username=99strax&show_icons=true&theme=dark"  
+    />
 
   <br>
 
